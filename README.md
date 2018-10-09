@@ -1,0 +1,2 @@
+# mygit
+the first git
